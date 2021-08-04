@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InputNama</string>
+    <string name="Label1">Masukkan Nama</string>
+    <string name="ButtonValue">Tampilkan</string>
+</resources>
